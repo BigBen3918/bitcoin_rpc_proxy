@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+# production
+logs
+artifacts
+ref
+dist
+.vscode
+files
+# misc
+.env
+certs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+package-lock.json
+.domains.*.json
+.chains.*.json
